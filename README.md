@@ -1,3 +1,6 @@
-#This is a training module for ML
-* [First Model](firstmodel.ipynb)
-* [Model Validation](modelvalidation.ipynb) ==> need to finish it
+# This is a training module for ML
+
+## Introduction
+* [First Model](./Intro/firstmodel.ipynb)
+* [Model Validation](./Intro/modelvalidation.ipynb)
+* [Underfitting and Overfitting] (./Intro/underfittingoverfitting.ipynb)
