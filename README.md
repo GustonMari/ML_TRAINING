@@ -5,3 +5,7 @@
 * [Model Validation](./Intro/modelvalidation.ipynb)
 * [Underfitting and Overfitting](./Intro/underfittingoverfitting.ipynb)
 * [Random Forest](./Intro/randomforest.ipynb)
+
+## Intermediate
+* [Missing Values(Imputed)](./Intermediate/missingvalues.ipynb)
+* [Categorical Variables](./Intermediate/categoricalvariables.ipynb)
