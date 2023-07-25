@@ -3,4 +3,5 @@
 ## Introduction
 * [First Model](./Intro/firstmodel.ipynb)
 * [Model Validation](./Intro/modelvalidation.ipynb)
-* [Underfitting and Overfitting] (./Intro/underfittingoverfitting.ipynb)
+* [Underfitting and Overfitting](./Intro/underfittingoverfitting.ipynb)
+* [Random Forest](./Intro/randomforest.ipynb)
