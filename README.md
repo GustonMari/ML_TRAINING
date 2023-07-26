@@ -9,3 +9,5 @@
 ## Intermediate
 * [Missing Values(Imputed)](./Intermediate/missingvalues.ipynb)
 * [Categorical Variables](./Intermediate/categoricalvariables.ipynb)
+* [Pipelines](./Intermediate/pipelines.ipynb)
+* [Cross Validation](./Intermediate/crossvalidation.ipynb)
